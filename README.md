@@ -1,4 +1,4 @@
-# JavaScript Personal Study
+# JavaScript/Node.js Personal Study
 
 Repositório responsável por estudar e aprender conceitos mais profundos de JavaScript/Node.js com diversos cursos e projetos. Com intuito de aprimorar mais ainda o meu conhecimento na linguagem.
 
