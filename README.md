@@ -12,6 +12,6 @@ Repositório responsável por estudar e aprender conceitos mais profundos de Jav
 - **[Curso - JavaScript Ninja](javascript-ninja-curso/README.md)**
 - **[Book: Learning JavaScript Data Structures and Algorithms - Third Edition](learnjs-datastructure-algorithms/README.md)**
 - **[Book: Your First Week With Node.js, 2nd Edition](first-week-nodejs/README.md)**
-- **[Book: Get Programming with Node.js](learnjs-datastructure-algorithms/README.md)**
+- **[Book: Get Programming with Node.js](get-programming-nodejs/README.md)**
 
 **documentação em desenvolvimento**
