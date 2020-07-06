@@ -9,6 +9,7 @@ Repositório responsável por estudar e aprender conceitos mais profundos de Jav
 
 ## 📕 Lista de Projetos, Livros e Cursos estudados
 
+- **[Curso - JavaScript Ninja](javascript-ninja-curso/README.md)**
 - **[Book: Learning JavaScript Data Structures and Algorithms - Third Edition](learnjs-datastructure-algorithms/README.md)**
 
 **documentação em desenvolvimento**
