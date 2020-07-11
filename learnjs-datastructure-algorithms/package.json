@@ -1,0 +1,17 @@
+{
+  "name": "learnjs-datastructure-algorithms",
+  "version": "1.0.0",
+  "description": "## 💻 O que eu vou aprender?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.6.0",
+    "@typescript-eslint/parser": "^3.6.0",
+    "eslint": "^7.4.0"
+  }
+}
