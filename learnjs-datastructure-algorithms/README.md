@@ -1,4 +1,4 @@
-# 📒 Book - **[Learning JavaScript Data Structures and Algorithms - Third Edition](Learning JavaScript Data Structures and Algorithms - Third Edition)**
+# 📒 Book - **[Learning JavaScript Data Structures and Algorithms - Third Edition](https://www.amazon.com.br/Learning-JavaScript-Data-Structures-Algorithms/dp/1788623878)**
 
 ## 💻 O que eu vou aprender?
 
@@ -10,3 +10,4 @@ Os estudos tem como objetivo atingir o melhor raciocínio lógico e preparo no m
 
 
 
+**(documentação em desenvolvimento)**
