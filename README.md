@@ -4,7 +4,7 @@ Repositório responsável por estudar e aprender conceitos mais profundos de Jav
 
 ## 🚀 Recursos Utilizados
 
-- **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=js_personal_study-github-gllemos)**
+- **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)**
 - **[Node.js](https://nodejs.org/en/)**
 
 ## 📕 Lista de Projetos, Livros e Cursos estudados
